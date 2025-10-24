@@ -1,4 +1,7 @@
 # Experiment 5: Zero-Knowledge Proof (ZK) Private Voting System
+### NAME: HARITHA RAMESH
+### REG NO: 212223100011
+### DEPARTMENT: CSE(CYBER SECURITY)
 # Aim:
 To implement a fully private and transparent voting system using Zero-Knowledge Proofs (ZKPs). This ensures that votes are counted fairly without revealing who voted for whom.
 
